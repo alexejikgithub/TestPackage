@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-github-username/TestPackage.git"
+    "url": "git+https://github.com/alexejikgithub/TestPackage.git"
   },
   "bugs": {
-    "url": "https://github.com/your-github-username/TestPackage/issues"
+    "url": "https://github.com/alexejikgithub/TestPackage/issues"
   },
-  "homepage": "https://github.com/your-github-username/TestPackage#readme"
+  "homepage": "https://github.com/alexejikgithub/TestPackage#readme"
 }
