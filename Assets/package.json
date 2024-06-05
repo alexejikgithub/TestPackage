@@ -1,12 +1,17 @@
 {
-  "name": "com.alexejikgithub.testpackage",
-  "displayName": "testpackage",
-  "author": "alexejik",
+  "name": "@alexejikgithub/testpackage",
+  "displayName": "Test Package",
   "version": "1.1.0",
-  "unity": "2021.3",
-  "description": "testpackage",
+  "description": "This is a test package",
+  "author": {
+    "name": "Your Name"
+  },
   "repository": {
-    "url": "https://github.com/alexejikgithub/TestPackage.git?path=Assets",
-    "type": "git"
-  }
+    "type": "git",
+    "url": "git+https://github.com/your-github-username/TestPackage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-github-username/TestPackage/issues"
+  },
+  "homepage": "https://github.com/your-github-username/TestPackage#readme"
 }
