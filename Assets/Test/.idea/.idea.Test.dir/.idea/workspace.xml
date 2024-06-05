@@ -22,7 +22,7 @@
     <list default="true" id="c772e286-1ccd-48f4-b597-7380a1951e35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/.idea.Assets.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Assets.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Test.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Test.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
       <list>
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/../package.json" />
+        <option value="$PROJECT_DIR$/../../../Marketing_Tools_DIAzurJect/Packages/manifest.json" />
       </list>
     </option>
   </component>
@@ -60,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717590847564</updated>
       <workItem from="1717590849862" duration="940000" />
-      <workItem from="1717595195279" duration="1479000" />
+      <workItem from="1717595195279" duration="3315000" />
     </task>
     <servers />
   </component>
